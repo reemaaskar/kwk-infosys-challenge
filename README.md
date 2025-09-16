@@ -45,5 +45,5 @@ AI was used to **check assumptions, refine hypotheses, and improve explanations*
 - Small sample: **3 pre-cap and 3 post-cap seasons** → low statistical power  
 - Financials: Non-UK team budgets are **estimated**, introducing uncertainty  
 - Exclusions: Driver salaries, marketing, and infrastructure costs are **outside the cap**, sustaining hidden inequality
--  
+  
 ---
