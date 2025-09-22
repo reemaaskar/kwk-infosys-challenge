@@ -36,6 +36,8 @@ I used AI tools (mainly ChatGPT) as an **analytical assistant**, not a replaceme
 
 3. **Visualization Insights**  
    - Suggested interpreting skew as *“a right-tail where a few small teams scored more points post-cap.”*
+   - I also used ChatGPT to support me in improving the presentation quality of my Python plots. This included debugging when      plots didn’t render as intended and adjusting bubble sizes in my efficiency scatter plot for better readability.
+   - All final visualisation and coding decisions were my own, but I used AI as a sounding board to refine presentation            quality.
   
 AI was used to **check assumptions, refine hypotheses, and improve explanations**. AI suggestions were **validated and integrated responsibly**  
 
